@@ -1,2 +1,2 @@
-FROM aenstan/subconverter:update
+FROM aenstan/subconverter
 COPY base/* /base/
